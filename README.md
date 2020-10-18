@@ -7,11 +7,6 @@ This repository contains a direct usable module for the recently released [Filte
 - 1D, 2D, 3D FilterResponseNorm
 - Learnable epsilon parameter
 
-## Contributors
-
-* [Abhay Gupta](https://github.com/gupta-abhay)
-* [Huang Lianghua](https://github.com/huanglianghua)
-
 ## Baselines
 
 * [Implementation by Yuxin Wu](https://github.com/ppwwyyxx/FRN-on-common-ImageNet-baseline) 
